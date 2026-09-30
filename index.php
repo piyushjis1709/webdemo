@@ -19,7 +19,7 @@ include __DIR__ . '/includes/header.php';
     <div class="orb o2"></div>
     <div class="container heroGrid">
       <div class="reveal">
-        <span class="eyebrow"><i></i> Since 2015 · Digital Technology Partner</span>
+        <span class="eyebrow"><i></i> Since 2015 · Digital Technology Partner 1</span>
         <h1>Build digital products that <span>move business forward.</span></h1>
         <p>From high-performance websites and mobile apps to custom software, portals, SEO and digital marketing — we
           turn ambitious ideas into scalable digital experiences.</p>
